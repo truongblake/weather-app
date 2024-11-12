@@ -43,9 +43,9 @@ Learning Outcome
 
 Through building this project, I improved my skills in:
 
-React Development: Practiced component creation, state management, and rendering in React.
-Data Fetching and JSON Parsing: Learned to make asynchronous API calls, handle JSON responses, and map data to user-facing components.
-Error Handling: Added basic error handling for API calls to manage issues like invalid city names or network errors.
+- React Development: Practiced component creation, state management, and rendering in React.
+- Data Fetching and JSON Parsing: Learned to make asynchronous API calls, handle JSON responses, and map data to user-facing components.
+- Error Handling: Added basic error handling for API calls to manage issues like invalid city names or network errors.
 
 Credits
 
