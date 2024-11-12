@@ -19,11 +19,11 @@ Developed in **October 2024**, this project focused on:
 
 To set up and run the project locally:
 
-1. **Clone the repository**:
-   ```bash
+**Clone the repository**:
+   ```
    git clone https://github.com/truongblake/weather-app.git
    cd weather-app
-
+```
 Install dependencies:
 
     npm install
